@@ -1,0 +1,19 @@
+{
+  "name": "demo-node-web-app",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/sumit87dgp/DemoNodeWebApp.git"
+  },
+  "author": "Sumit Saha",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/sumit87dgp/DemoNodeWebApp/issues"
+  },
+  "homepage": "https://github.com/sumit87dgp/DemoNodeWebApp#readme"
+}
