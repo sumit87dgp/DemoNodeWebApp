@@ -4,6 +4,7 @@
   "description": "",
   "main": "index.js",
   "scripts": {
+    "start": "node demoapp",
     "test": "echo \"Error: no test specified\" && exit 1"
   },
   "repository": {
@@ -15,5 +16,8 @@
   "bugs": {
     "url": "https://github.com/sumit87dgp/DemoNodeWebApp/issues"
   },
-  "homepage": "https://github.com/sumit87dgp/DemoNodeWebApp#readme"
+  "homepage": "https://github.com/sumit87dgp/DemoNodeWebApp#readme",
+  "dependencies": {
+    "express": "^4.15.3"
+  }
 }
